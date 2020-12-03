@@ -1,0 +1,21 @@
+{
+    "name": "aboelnoor/popcart",
+    "description": "Magento 2 auto popup minicart after add to cart action",
+    "require": {
+        "magento/product-community-edition": "2.*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Mahmoud Abonnoor",
+            "email": "m.abonnoor@gmail.com",
+            "role": "Senior Magento Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
